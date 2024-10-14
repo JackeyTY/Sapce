@@ -1,0 +1,44 @@
+# Ignore Unity specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore auto-generated Visual Studio/MonoDevelop files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.vsconfig
+
+# Ignore crash reports
+*.pidb.meta
+*.pdb
+
+# Ignore system-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*~
+
+# Ignore files related to OS
+.DS_Store
+Thumbs.db
+
+# Ignore other user-specific files
+*.apk
+*.aab
+*.obb
+*.exr
