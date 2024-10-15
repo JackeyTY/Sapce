@@ -2,7 +2,7 @@
 
 ![space](img/space.gif)
 
-An endless runner game inspired by Space Invaders.
+A cosmetic-themed endless runner game, inspired by Space Invaders, with an airdrop system and adaptive difficulty system on iOS.
 
 **Features:**
 
